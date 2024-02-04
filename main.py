@@ -1,3 +1,4 @@
+# Крестики нолики
 from tkinter import *
 
 
